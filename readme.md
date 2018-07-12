@@ -1,0 +1,6 @@
+初始化项目
+输入npm install获得依赖安装包
+根据自己的需求把文件放在www目录下
+在connection里更改数据库内容
+connection.query里改写sql语句
+根据数据内容编写模板引擎
